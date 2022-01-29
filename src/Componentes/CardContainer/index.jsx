@@ -14,7 +14,7 @@ const CardContainer = () => {
     
     <UserCard 
                 product="Pancito" 
-                price="40"  
+                price="20"  
                 comprar={comprar} 
         />
         

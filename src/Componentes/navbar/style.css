@@ -1,0 +1,6 @@
+.navContainer{
+    background-color: coral;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
