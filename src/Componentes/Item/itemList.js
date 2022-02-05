@@ -26,4 +26,4 @@ export function getProductos () {
         setTimeout(() => resolve(PRODUCTS), 5000)
     });
 }
-    
+

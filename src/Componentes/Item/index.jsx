@@ -9,7 +9,7 @@ return (
     <p>Precio: {product.price} </p>
     
     </div>
- );
+    );
 
 
 };
